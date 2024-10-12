@@ -1,2 +1,4 @@
 # L2SA
-Code for the L2 sensitivity analysis method in https://arxiv.org/abs/2211.04697.
+
+This repository contains the R code to implement the sensitivity analysis methods in our [article](https://arxiv.org/abs/2409.19712).
+
